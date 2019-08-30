@@ -1,5 +1,5 @@
 #page title
-page_title                                : Dagangan - Stok Warung dengan Mudah dan Murah                                       # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Dagangan                                       # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : https://i.ibb.co/xDZcY2J/Android-512-square.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Dagangan - Stok Warung dengan Mudah dan Murah                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Stok Warung dengan Mudah dan Murah                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Dagangan merupakan platform online pembelian produk secara grosir yang diciptakan untuk memajukan UMKM. Kami memiliki sistem pemesanan yang matang, layanan pengiriman cepat, fitur yang lengkap untuk mempersiapkan Anda mengembangkan dan memperbesar bisnis di Indonesia. Tujuan kamu untuk membantu semua toko retail offline dengan menyediakan barang terbaik dengan harga yang sangat bersaing.                                         
+app_description                           :                                          
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -78,10 +78,10 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#FFFFFF"
-topbar_transparency                       : 0.1
+topbar_transparency                       : 1
 topbar_title_color                        : "#009Abf"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : https://images.unsplash.com/photo-1494515426402-f1980ace7a9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
