@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Pendapatan Tambahan
-    description                           : Bisa berdagang dengan tetap menjalani aktivitas sehari-hari seperti biasanya
+  - title                                 : 1 Hari Pengiriman
+    description                           : Tunggu stok datang, jualan jadi terhalang? Pengiriman kami dijamin sampai dalam 1x24 jam
     fontawesome_icon_name                 : magic
     
-  - title                                 : Akses ke Modal Tambahan
-    description                           : Nikmati tambahan modal usaha tanpa jaminan dengan syarat yang simple banget dan bebas ribet
+  - title                                 : Akses Stok Lengkap
+    description                           : Tidak perlu lagi cari distributor atau sales yang berbeda-beda. Cari semua kebutuhan di dalam satu aplikasi
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Murah, Mudah, Lengkap
-    description                           : Semua bisa kamu jual disini dengan harga yang bersaing hanya dalam 1 aplikasi
+  - title                                 : Harga Grosir
+    description                           : Dapatkan harga terbaik untuk barang-barang daganganmu
     fontawesome_icon_name                 : play-circle
 
 #  - title                                 : Automatic Icon and Metadata
